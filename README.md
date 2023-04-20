@@ -1,5 +1,6 @@
 # BIKE-SALES-DASHBOARD
-Introduction
+## Introduction
+
 I created my own quick dashboard using Excel. It had graphs on a random individuals in their various region, martial status, income . This helped me analyze how users are affect to puchase a bike.
 
 
@@ -8,18 +9,18 @@ Goal: Show how users's purchase rate is affect based on different factors
 
 Question:  How is the purchase rate currently ?
 
-Process
+##Process
 
 The original data was cleaned and manipulated in Microsoft Excel, then I used Excel also to create an interactive dashboard.
 
 
-Microsoft Excel
+###Microsoft Excel
 I used Microsoft Excel to clean and generate my data. I have the following columns (which are typical for bike users an non users data):
 
-User's Data
+###User's Data
 Marital Status	,Gender	,Income,	Children, Education,	Occupation,	Home Owner,	Cars,	Commute Distance,	Region,	Age,	Age Bracket,	Purchased Bike
 
-<img>
+![alt](https://github.com/TobiAkioye/BIKE-SALES-DASHBOARD-/blob/main/image/Cleaned%20data.JPG)
 
 I added a column "Age Bracket" to make it easier to clasify and represent the data. 
 
