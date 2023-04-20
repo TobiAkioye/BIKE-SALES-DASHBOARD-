@@ -16,11 +16,12 @@ The original data was cleaned and manipulated in Microsoft Excel, then I used Ex
 
 ### Microsoft Excel
 I used Microsoft Excel to clean and generate my data. I have the following columns (which are typical for bike users an non users data):
+![alt](https://github.com/TobiAkioye/BIKE-SALES-DASHBOARD-/blob/main/image/Cleaned%20data.JPG)
 
 ### User's Data
 Marital Status	,Gender	,Income,	Children, Education,	Occupation,	Home Owner,	Cars,	Commute Distance,	Region,	Age,	Age Bracket,	Purchased Bike
 
-![alt](https://github.com/TobiAkioye/BIKE-SALES-DASHBOARD-/blob/main/image/Cleaned%20data.JPG)
+
 
 I added a column "Age Bracket" to make it easier to clasify and represent the data. 
 
